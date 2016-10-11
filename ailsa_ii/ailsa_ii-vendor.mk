@@ -17,8 +17,7 @@
 PRODUCT_COPY_FILES += \
     vendor/zte/ailsa_ii/proprietary/bin/alipayServiced:system/bin/alipayServiced \
     vendor/zte/ailsa_ii/proprietary/bin/climax_hostSW:system/bin/climax_hostSW \
-    vendor/zte/ailsa_ii/proprietary/bin/fingerprintd_gx:system/bin/fingerprintd_gx \
-    vendor/zte/ailsa_ii/proprietary/bin/goodixFpTest:system/bin/goodixFpTest \
+    vendor/zte/ailsa_ii/proprietary/bin/fingerprintd:system/bin/fingerprintd \
     vendor/zte/ailsa_ii/proprietary/bin/gx_fpd:system/bin/gx_fpd \
     vendor/zte/ailsa_ii/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/zte/ailsa_ii/proprietary/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb:system/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb \
